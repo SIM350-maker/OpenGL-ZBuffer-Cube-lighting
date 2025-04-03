@@ -40,6 +40,3 @@ This project demonstrates core 3D rendering concepts including z-buffering, shad
 ### Compilation
 ```bash
 g++ zbuffer_demo.cpp -o demo -lGL -lGLU -lglut
-
-
-![Demo Screenshot](side light.png)
